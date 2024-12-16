@@ -1,0 +1,14 @@
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\bin\Debug\net9.0\Stopwatch.exe
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\bin\Debug\net9.0\Stopwatch.deps.json
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\bin\Debug\net9.0\Stopwatch.runtimeconfig.json
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\bin\Debug\net9.0\Stopwatch.dll
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\bin\Debug\net9.0\Stopwatch.pdb
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\Stopwatch.AssemblyInfoInputs.cache
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\Stopwatch.AssemblyInfo.cs
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\Stopwatch.csproj.CoreCompileInputs.cache
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\Stopwatch.dll
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\refint\Stopwatch.dll
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\Stopwatch.pdb
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\Stopwatch.genruntimeconfig.cache
+F:\PROJECTS\Event Driven programing\Stopwatch\Stopwatch\obj\Debug\net9.0\ref\Stopwatch.dll
